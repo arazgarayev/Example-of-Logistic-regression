@@ -1,5 +1,5 @@
 # arazgara
-[Power Bi example over Reservations](https://github.com/arazgarayev/arazgara/blob/5f98be864f4e754b6e0bae85a13a84ae1cddd879/README.md#L1-L19)
+[Example of logistic regression for classification in R](https://github.com/arazgarayev/arazgara/blob/5f98be864f4e754b6e0bae85a13a84ae1cddd879/README.md#L1-L19)
 # arazgara
 Example of logistic regression for classification in R
 # Load the required library
